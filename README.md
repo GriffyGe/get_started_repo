@@ -2,4 +2,6 @@
 
 This is where I started. Great Job! Griffy
 
-## This is the second title.
+The second title is deleted.
+
+## This is the third title.
