@@ -9,3 +9,7 @@ The second title is deleted.
 ## Get started from Youtube!
 
 123
+
+## local develop
+
+1. Open your book.
