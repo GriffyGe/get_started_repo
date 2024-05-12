@@ -1,15 +1,51 @@
-# This is the mian header
+# Start to learn Markdown
+## This is the second title
 
 This is where I started. Great Job! Griffy
 
-The second title is deleted.
+diff face: **Bold**, *Italic*, ~~del~~
 
-## This is the third title.
+below is a division line added manully
 
-## Get started from Youtube!
+---
+**Table of Contents:**
+1. Why Markdown
+1. [Chapter I](#Chapter-I)
+   1. sub chapter of chapter I
+1. Chapter II
+1. [Chapter III](#chapter-iii)
 
-123
+## Why Markdown?
 
-## local develop
+- use dash to create an unordered list
+- this is an example
+- this is another item
 
-1. Open your book.
+## Chapter I
+Try to install something `pip install xxx`
+
+## Chapter II
+
+Here is a code block!
+
+```py
+print("Hey")
+
+for i in range(1,10):
+    print(i)
+
+for i in "griffy":
+    print(i)
+```
+---
+
+> Quote syntax:The greatest test of courage on earth is to bear defeat without losing heart.
+>> nested quote
+
+-- some one
+
+## Chapter III
+
+Hi, there!
+
+
